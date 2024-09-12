@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity and Netowrking Projects:</h2>
 
 - <b>CCNA lab Practicals (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting CLI & Creating Networks in Packet Tracer](https://github.com/thinleyyu/CCNA-LAB/tree/main)
 - <b>University Projects on IoT Network (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
