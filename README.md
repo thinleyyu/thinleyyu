@@ -5,7 +5,7 @@
 - <b>CCNA lab Practicals (AlgoExpert)</b>
   - [Praciting CLI & Creating Networks in Packet Tracer](https://github.com/thinleyyu/CCNA-LAB/tree/main)
 - <b>University Projects on IoT Network (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/thinleyyu/IoT-Network) <b><i>(Potentially NSFW)</b></i>
+  - [Raspberry Pi and Teensy-Based Automated Irrigation System with MQTT and Bluetooth](https://github.com/thinleyyu/IoT-Network) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
